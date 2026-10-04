@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "8b7526eefde74ac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3f4c1ede225156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5015be487d3a5f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Master Concepts/Notat.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notat"
+            }
+          },
+          {
+            "id": "206618d95d514759",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Kursusgang 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kursusgang 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "676ba2539eaf807f",
+    "type": "split",
+    "children": [
+      {
+        "id": "abc83aba31b9ee7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48b97a9e88e9007",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Filer"
+            }
+          },
+          {
+            "id": "d2e0cef921ad6147",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1dc29d894189910e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19162c46e2a72463",
+    "type": "split",
+    "children": [
+      {
+        "id": "27b3c5066e8db352",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db29820a601dfa0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1e6dc7aac5ec84eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a346138454cbabc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a34c264c0c64af24",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a9266db85078a5c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Åbn Hurtigskifter": false,
+      "graph:Åbn grafvisning": false,
+      "canvas:Opret nyt lærred": false,
+      "daily-notes:Åbn dagens note": false,
+      "templates:Indsæt skabelon": false,
+      "command-palette:Åbn kommandopalet": false,
+      "bases:Opret ny base": false
+    }
+  },
+  "active": "5015be487d3a5f6f",
+  "lastOpenFiles": [
+    "Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 2.md",
+    "Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Kursusgang 2.md",
+    "Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Kursusgang 1.md",
+    "Calculus/Master Concepts/Notat.md",
+    "Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 1.md",
+    "Lalalalala.md",
+    "Hejjjj.md",
+    "Untitled.base",
+    "2026-09-08.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Programmering for matematikere/Untitled.md",
+    "Programmering for matematikere",
+    "Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Untitled 1.md",
+    "Calculus/Blok 1 Funktioner af flere variable/Kursusgang 1.md",
+    "Calculus/Master Concepts",
+    "Calculus/Blok 1 Funktioner af flere variable/04 Workshop",
+    "Calculus/Blok 1 Funktioner af flere variable/03 Opgaver",
+    "Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning",
+    "Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse",
+    "Calculus/Blok 5 Differentialligninger",
+    "Calculus/Blok 4 Komplekse tal",
+    "Calculus/Blok 3 Integration",
+    "Welcome.md",
+    "Calculus/Blok 1.md",
+    "create a link.md"
+  ]
+}

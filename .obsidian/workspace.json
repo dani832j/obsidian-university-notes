@@ -1,0 +1,385 @@
+{
+  "main": {
+    "id": "8b7526eefde74ac3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd3f4c1ede225156",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5015be487d3a5f6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "003 Misc/Trash/Regneark.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Regneark"
+            }
+          },
+          {
+            "id": "4c49f25ba6f4f624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Uni/01 Calculus/01 Block 1/Lecture 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 2"
+            }
+          },
+          {
+            "id": "062116ded2681a18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Uni/01 Calculus/01 Block 1/Lecture 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 3"
+            }
+          },
+          {
+            "id": "ef98c68423e74dba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graph of a Function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Graph of a Function"
+            }
+          },
+          {
+            "id": "db4995a131a3ba5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Uni/01 Calculus/01 Block 1/00 Block 1 Home.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Block 1 Home"
+            }
+          },
+          {
+            "id": "3bf1fe96950d3d0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 Knowledge/Mathematics/Level Curves.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Level Curves"
+            }
+          },
+          {
+            "id": "04fc3c0047df411e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Uni/01 Calculus/01 Block 1/Lecture 5.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 5"
+            }
+          },
+          {
+            "id": "1ad90635f7a561aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Uni/01 Calculus/01 Block 1/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1"
+            }
+          },
+          {
+            "id": "90b1e23f92767465",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Uni/01 Calculus/01 Block 1/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1"
+            }
+          },
+          {
+            "id": "c5479da6761f793b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 Uni/01 Calculus/01 Block 1/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lecture 1"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "676ba2539eaf807f",
+    "type": "split",
+    "children": [
+      {
+        "id": "abc83aba31b9ee7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d48b97a9e88e9007",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d2e0cef921ad6147",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1dc29d894189910e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "19162c46e2a72463",
+    "type": "split",
+    "children": [
+      {
+        "id": "27b3c5066e8db352",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0db29820a601dfa0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1e6dc7aac5ec84eb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a346138454cbabc0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a34c264c0c64af24",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a9266db85078a5c0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "001 Uni/01 Calculus/01 Block 1/Lecture 1.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "8ee67964e02e0c67",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "db4995a131a3ba5f",
+  "lastOpenFiles": [
+    "002 Knowledge/Mathematics/Level Curves.md",
+    "002 Knowledge/Mathematics/Gradient.md",
+    "002 Knowledge/Mathematics/Grafen for en funktion.excalidraw.md",
+    "002 Knowledge/Mathematics/Graph of a Function.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 2.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 5.md",
+    "003 Misc/Templates/Concept Template.md",
+    "003 Misc/Templates/Lecture template 2.md",
+    "003 Misc/Templates/Lecture template.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 1.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 4.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 3.md",
+    "001 Uni/01 Calculus/01 Block 1/00 Block 1 Home.md",
+    "000 Dashboard/00 Calculus Home.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 6.md",
+    "001 Uni/01 Calculus/01 Block 1/Workshop - Blok 1.md",
+    "003 Misc/Trash/Makro Sheet.md",
+    "001 Uni/01 Calculus/03 Block 3/00 Block 3 Home.md",
+    "002 Knowledge/Mathematics",
+    "002 Knowledge",
+    "001 Uni/01 Calculus/01 Block 1/Drawing 2026-10-03 03.20.21.excalidraw.md",
+    "000 Dashboard",
+    "003 Misc",
+    "000 Dashboard",
+    "001 Uni",
+    "000 Dashboard/Home.md",
+    "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/03 Opgaver/Kursusgang 5.md",
+    "001 Uni/01 Calculus/04 Block 4/00 Block 4 Home.md",
+    "001 Uni/01 Calculus/05 Block 5/Workshop - Blok 5.md",
+    "001 Uni/01 Calculus/04 Block 4/Workshop - Blok 4.md",
+    "001 Uni/01 Calculus/03 Block 3/Workshop - Blok 3.md",
+    "001 Uni/01 Calculus/05 Block 5/00 Block 5 Home.md",
+    "001 Uni/01 Calculus/05 Block 5",
+    "001 Uni/01 Calculus/04 Block 4",
+    "001 Uni/01 Calculus/03 Block 3",
+    "100 Courses/Calculus/01 Block 1/Untitled",
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas"
+  ]
+}
