@@ -74,31 +74,27 @@
             }
           },
           {
-            "id": "db4995a131a3ba5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 Uni/01 Calculus/01 Block 1/00 Block 1 Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00 Block 1 Home"
-            }
-          },
-          {
             "id": "3bf1fe96950d3d0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 Knowledge/Mathematics/Level Curves.md",
+                "file": "Graph of a Function.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Level Curves"
+              "title": "Graph of a Function"
             }
           },
           {
@@ -340,44 +336,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "db4995a131a3ba5f",
+  "active": "3bf1fe96950d3d0e",
   "lastOpenFiles": [
-    "002 Knowledge/Mathematics/Level Curves.md",
-    "002 Knowledge/Mathematics/Gradient.md",
-    "002 Knowledge/Mathematics/Grafen for en funktion.excalidraw.md",
-    "002 Knowledge/Mathematics/Graph of a Function.md",
-    "001 Uni/01 Calculus/01 Block 1/Lecture 2.md",
-    "001 Uni/01 Calculus/01 Block 1/Lecture 5.md",
-    "003 Misc/Templates/Concept Template.md",
+    "002 Knowledge/Mathematics/00 Mathematics Home.md",
+    "Function of Multiple Variables.md",
+    "Range.md",
+    "Domain.md",
+    "Function.md",
+    "Graph of a Function.md",
+    "Level Curve.md",
+    "003 Misc/Templates/Concept Template 0.md",
     "003 Misc/Templates/Lecture template 2.md",
     "003 Misc/Templates/Lecture template.md",
-    "001 Uni/01 Calculus/01 Block 1/Lecture 1.md",
-    "001 Uni/01 Calculus/01 Block 1/Lecture 4.md",
+    "003 Misc/Trash/Test.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 6.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 5.md",
     "001 Uni/01 Calculus/01 Block 1/Lecture 3.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 2.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 1.md",
     "001 Uni/01 Calculus/01 Block 1/00 Block 1 Home.md",
     "000 Dashboard/00 Calculus Home.md",
-    "001 Uni/01 Calculus/01 Block 1/Lecture 6.md",
+    "002 Knowledge/Mathematics/Level Curve.md",
+    "002 Knowledge/Mathematics/Gradient.md",
+    "003 Misc/Templates/Concept Template.md",
+    "002 Knowledge/Mathematics/Graph of a Function.md",
+    "002 Knowledge/Mathematics/00 Mathematics Home",
+    "002 Knowledge/Untitled.md",
+    "LICENSE",
+    "002 Knowledge/Mathematics/Grafen for en funktion.excalidraw.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 4.md",
     "001 Uni/01 Calculus/01 Block 1/Workshop - Blok 1.md",
-    "003 Misc/Trash/Makro Sheet.md",
-    "001 Uni/01 Calculus/03 Block 3/00 Block 3 Home.md",
     "002 Knowledge/Mathematics",
     "002 Knowledge",
-    "001 Uni/01 Calculus/01 Block 1/Drawing 2026-10-03 03.20.21.excalidraw.md",
     "000 Dashboard",
     "003 Misc",
     "000 Dashboard",
     "001 Uni",
-    "000 Dashboard/Home.md",
-    "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/03 Opgaver/Kursusgang 5.md",
-    "001 Uni/01 Calculus/04 Block 4/00 Block 4 Home.md",
-    "001 Uni/01 Calculus/05 Block 5/Workshop - Blok 5.md",
-    "001 Uni/01 Calculus/04 Block 4/Workshop - Blok 4.md",
-    "001 Uni/01 Calculus/03 Block 3/Workshop - Blok 3.md",
-    "001 Uni/01 Calculus/05 Block 5/00 Block 5 Home.md",
     "001 Uni/01 Calculus/05 Block 5",
     "001 Uni/01 Calculus/04 Block 4",
-    "001 Uni/01 Calculus/03 Block 3",
-    "100 Courses/Calculus/01 Block 1/Untitled",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas"

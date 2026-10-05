@@ -1,0 +1,153 @@
+Folder PATH listing for volume SSDHans
+Volume serial number is C44C-8715
+C:.
+¦   LICENSE
+¦   structure.txt
+¦   
++---.copilot
+¦       model-catalog-cache.json
+¦       
++---.obsidian
+¦   ¦   app.json
+¦   ¦   appearance.json
+¦   ¦   community-plugins.json
+¦   ¦   core-plugins.json
+¦   ¦   graph.json
+¦   ¦   hotkeys.json
+¦   ¦   workspace-ComputerJohnson.json
+¦   ¦   workspace-Dallepopper-pc-2.json
+¦   ¦   workspace-Dallepopper-pc.json
+¦   ¦   workspace.json
+¦   ¦   
+¦   +---plugins
+¦   ¦   +---calendar
+¦   ¦   ¦       data.json
+¦   ¦   ¦       main.js
+¦   ¦   ¦       manifest.json
+¦   ¦   ¦       
+¦   ¦   +---dataview
+¦   ¦   ¦       main.js
+¦   ¦   ¦       manifest.json
+¦   ¦   ¦       styles.css
+¦   ¦   ¦       
+¦   ¦   +---obsidian-excalidraw-plugin
+¦   ¦   ¦       data.json
+¦   ¦   ¦       main.js
+¦   ¦   ¦       manifest.json
+¦   ¦   ¦       styles.css
+¦   ¦   ¦       
+¦   ¦   +---obsidian-git
+¦   ¦   ¦       data.json
+¦   ¦   ¦       main.js
+¦   ¦   ¦       manifest.json
+¦   ¦   ¦       obsidian_askpass.sh
+¦   ¦   ¦       styles.css
+¦   ¦   ¦       
+¦   ¦   +---obsidian-latex-suite
+¦   ¦   ¦       data.json
+¦   ¦   ¦       main.js
+¦   ¦   ¦       manifest.json
+¦   ¦   ¦       styles.css
+¦   ¦   ¦       
+¦   ¦   +---obsidian-tikzjax
+¦   ¦   ¦       main.js
+¦   ¦   ¦       manifest.json
+¦   ¦   ¦       styles.css
+¦   ¦   ¦       
+¦   ¦   +---omnisearch
+¦   ¦   ¦       data.json
+¦   ¦   ¦       main.js
+¦   ¦   ¦       manifest.json
+¦   ¦   ¦       styles.css
+¦   ¦   ¦       
+¦   ¦   +---quickadd
+¦   ¦   ¦       data.json
+¦   ¦   ¦       main.js
+¦   ¦   ¦       manifest.json
+¦   ¦   ¦       styles.css
+¦   ¦   ¦       
+¦   ¦   +---templater-obsidian
+¦   ¦           main.js
+¦   ¦           manifest.json
+¦   ¦           styles.css
+¦   ¦           
+¦   +---themes
+¦       +---Tokyo Night
+¦               manifest.json
+¦               theme.css
+¦               
++---000 Dashboard
+¦       00 Calculus Home.md
+¦       
++---001 Uni
+¦   +---01 Calculus
+¦   ¦   +---01 Block 1
+¦   ¦   ¦       00 Block 1 Home.md
+¦   ¦   ¦       Lecture 1.md
+¦   ¦   ¦       Lecture 2.md
+¦   ¦   ¦       Lecture 3.md
+¦   ¦   ¦       Lecture 4.md
+¦   ¦   ¦       Lecture 5.md
+¦   ¦   ¦       Lecture 6.md
+¦   ¦   ¦       Workshop - Blok 1.md
+¦   ¦   ¦       
+¦   ¦   +---03 Block 3
+¦   ¦   ¦       00 Block 3 Home.md
+¦   ¦   ¦       Workshop - Blok 3.md
+¦   ¦   ¦       
+¦   ¦   +---04 Block 4
+¦   ¦   ¦       00 Block 4 Home.md
+¦   ¦   ¦       Workshop - Blok 4.md
+¦   ¦   ¦       
+¦   ¦   +---05 Block 5
+¦   ¦           00 Block 5 Home.md
+¦   ¦           Workshop - Blok 5.md
+¦   ¦           
+¦   +---02 PFM (Python)
++---002 Knowledge
+¦   +---Mathematics
+¦           Gradient.md
+¦           Grafen for en funktion.excalidraw.md
+¦           Graph of a Function.md
+¦           Level Curves.md
+¦           
++---003 Misc
+    +---Templates
+    ¦       Concept Template.md
+    ¦       Lecture template 2.md
+    ¦       Lecture template.md
+    ¦       
+    +---Trash
+        ¦   Makro Sheet.md
+        ¦   Regneark.md
+        ¦   Test.md
+        ¦   
+        +---Calculus
+        ¦   +---Blok 1 Funktioner af flere variable
+        ¦   ¦   +---01 Forberedelse
+        ¦   ¦   ¦       Kursusgang 1.md
+        ¦   ¦   ¦       Kursusgang 2.md
+        ¦   ¦   ¦       Kursusgang 3.md
+        ¦   ¦   ¦       Kursusgang 4.md
+        ¦   ¦   ¦       
+        ¦   ¦   +---02 Forlæsning
+        ¦   ¦   ¦       Kursusgang 1.md
+        ¦   ¦   ¦       Kursusgang 2.md
+        ¦   ¦   ¦       Kursusgang 3.md
+        ¦   ¦   ¦       Kursusgang 4.md
+        ¦   ¦   ¦       
+        ¦   ¦   +---03 Opgaver
+        ¦   ¦   ¦       Kursusgang 5.md
+        ¦   ¦   ¦       
+        ¦   ¦   +---04 Workshop
+        ¦   +---Blok 3 Integration
+        ¦   +---Blok 4 Komplekse tal
+        ¦   +---Blok 5 Differentialligninger
+        ¦   +---Master Concepts
+        ¦           Notat.md
+        ¦           
+        +---Programmering for matematikere
+            +---Kursusgang 2
+                    Læringsmål.md
+                    Opgaveregning.md
+                    

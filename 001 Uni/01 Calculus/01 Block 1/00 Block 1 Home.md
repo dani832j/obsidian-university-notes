@@ -13,4 +13,4 @@
 
 - [[Gradient]]
 - [[Partial Derivative]]
-- [[Level Curves]]
+- [[Level Curve]]

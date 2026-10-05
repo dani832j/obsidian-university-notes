@@ -32,7 +32,7 @@ For functions of two variables the domain becomes a region in the plane.
 
 ---
 
-## Key Idea 3: Graphs and [[Level Curves]]
+## Key Idea 3: Graphs and [[Level Curve]]
 
 For a function
 
@@ -66,7 +66,7 @@ ___
 - [[Function of Multiple Variables]]
 - [[Domain]]
 - [[Graph of a Function]]
-- [[Level Curves]]
+- [[Level Curve]]
 - [[Partial Derivative]]
 
 ___
