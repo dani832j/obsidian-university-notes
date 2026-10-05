@@ -79,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph of a Function.md",
+                "file": "001 Uni/01 Calculus/01 Block 1/Workshop - Blok 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -94,7 +94,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Graph of a Function"
+              "title": "Workshop - Blok 1"
             }
           },
           {
@@ -336,25 +336,26 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3bf1fe96950d3d0e",
+  "active": "d48b97a9e88e9007",
   "lastOpenFiles": [
-    "README.md",
-    "002 Knowledge/Mathematics/00 Mathematics Home.md",
-    "Function of Multiple Variables.md",
-    "Range.md",
     "Domain.md",
     "Function.md",
+    "Function of Multiple Variables.md",
     "Graph of a Function.md",
     "Level Curve.md",
+    "001 Uni/01 Calculus/01 Block 1/Workshop - Blok 1.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 6.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 1.md",
+    "001 Uni/01 Calculus/01 Block 1/Lecture 2.md",
+    "002 Knowledge/Mathematics/00 Mathematics Home.md",
+    "README.md",
+    "Range.md",
     "003 Misc/Templates/Concept Template 0.md",
     "003 Misc/Templates/Lecture template 2.md",
     "003 Misc/Templates/Lecture template.md",
     "003 Misc/Trash/Test.md",
-    "001 Uni/01 Calculus/01 Block 1/Lecture 6.md",
     "001 Uni/01 Calculus/01 Block 1/Lecture 5.md",
     "001 Uni/01 Calculus/01 Block 1/Lecture 3.md",
-    "001 Uni/01 Calculus/01 Block 1/Lecture 2.md",
-    "001 Uni/01 Calculus/01 Block 1/Lecture 1.md",
     "001 Uni/01 Calculus/01 Block 1/00 Block 1 Home.md",
     "000 Dashboard/00 Calculus Home.md",
     "002 Knowledge/Mathematics/Level Curve.md",
@@ -365,7 +366,6 @@
     "002 Knowledge/Untitled.md",
     "LICENSE",
     "002 Knowledge/Mathematics/Grafen for en funktion.excalidraw.md",
-    "001 Uni/01 Calculus/01 Block 1/Lecture 4.md",
     "002 Knowledge/Mathematics",
     "002 Knowledge",
     "000 Dashboard",
