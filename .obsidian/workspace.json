@@ -13,30 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Kursusgang 1.md",
+                "file": "Calculus Tutorial/Type af kritiske punkter.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Kursusgang 1"
-            }
-          },
-          {
-            "id": "52dfe06b226e7170",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "001 Uni/01 Calculus/05 Block 5/00 Block 5 Home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00 Block 5 Home"
+              "title": "Type af kritiske punkter"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -70,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,8 +110,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
-                "collapseAll": false,
+                "file": "Calculus Tutorial/Type af kritiske punkter.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -195,12 +191,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,15 +213,25 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d48b97a9e88e9007",
+  "active": "d2e0cef921ad6147",
   "lastOpenFiles": [
+    "Calculus 1 - Kursusgang 7.md",
+    "Calculus Tutorial/Type af kritiske punkter.md",
+    "README.md",
+    "Calculus Tutorial",
     "Hej.md",
+    "Level Curve.md",
+    "Range.md",
+    "Domain.md",
+    "Function.md",
+    "Graph of a Function.md",
+    "Function of Multiple Variables.md",
     "Pasted image 20260917100809.png",
     "Pasted image 20260917100729.png",
+    "001 Uni/01 Calculus/05 Block 5/00 Block 5 Home.md",
     "002 Knowledge/Mathematics",
     "002 Knowledge",
     "000 Dashboard",
-    "001 Uni/01 Calculus/05 Block 5/00 Block 5 Home.md",
     "001 Uni/01 Calculus/05 Block 5",
     "001 Uni/01 Calculus/04 Block 4",
     "001 Uni/01 Calculus/03 Block 3",
@@ -235,7 +241,6 @@
     "003 Misc/Trash/Programmering for matematikere/Kursusgang 2/Opgaveregning.md",
     "003 Misc/Trash/Programmering for matematikere/Kursusgang 2/Læringsmål.md",
     "003 Misc/Trash/Programmering for matematikere/Kursusgang 2",
-    "003 Misc/Trash/Programmering for matematikere",
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Kursusgang 1.md",
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/03 Opgaver/Kursusgang 4.md",
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Kursusgang 2.md",
@@ -248,14 +253,6 @@
     "Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 3.md",
     "Regneark.md",
     "Calculus/Blok 1 Funktioner af flere variable/03 Opgaver/Kursusgang 4.md",
-    "Programmering for matematikere/Kursusgang 2/Læringsmål.md",
-    "Programmering for matematikere/Kursusgang 2/Opgaveregning.md",
-    "Calculus/Master Concepts/Notat.md",
-    "Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 2.md",
-    "Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 1.md",
-    "Lalalalala.md",
-    "Hejjjj.md",
-    "2026-09-08.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
