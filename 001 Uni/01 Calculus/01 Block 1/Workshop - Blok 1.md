@@ -30,23 +30,70 @@ ___
 
 b) Vælg det plot med niveaukurver der svarer til $f$ blandt nedenstående (Alle plot viser niveaukurver svarende til ligeligt fordelte funktionsværdier):
 
+nr: 3, da det er en cirkel og $c = e^{c/2}$
+Da c er eksponential vokser distancen mellem cirklerne
+
+![[Pasted image 20261008124058.png]]
+
+
+___
 c) Brug niveaukurverne til at beskrive funktionen. 
+Vi har niveaukurven for vores funktion med niveau c
+$f(x,y)=c)$
+det giver $x^2 + y^2 = e^c$
+Men ligningen $x^2 + y^2 = r^2$
+er netop en cirkel med centrum i origo og radius r
+$r^2 = c \to r = e^{c/2}$
+
+Niveaukurven svarende til værdien c består af alle punkter, der ligger i afstanden $e^{c/2}$ fra origo. Derfor er alle niveaukurver koncentriske cirkler med centrum i origo. 
+
+___
 
 d) Bestem gradientvektoren ∇f(x, y). 
 
+Finder de partielle afledede
+
+$f(x,y)_x = \partial{f} / \partial{x} = 1/(x^2+y^2) \cdot 2x = 2x/(x^2+y^2)$
+$f(x,y)_y = \partial{f} / \partial{y} = 1/(x^2 + y^2) \cdot 2y = 2y/(x^2 + y^2)$
+
+$\nabla f(x, y) = \begin{pmatrix} \frac{2x}{x^2 + y^2} \\ \frac{2y}{x^2 + y^2} \end{pmatrix}$
+
+
+___
+
+
 e) Den retningsafledede Du i en retning bestemt ved enhedsvektoren u kan bestemmes ved Duf(x, y) = u · ∇f(x, y). Bevis dette. (Hint: Se Sætning 7 i afsnit 12.7) 
 
-f) Hvad er Duf(x, y) for u =  1 0  og u =  0 1  . Hvordan passer dette med fortolkningen af partielle afledede og retningsafledede. 
+**
+
+___
+
+
+f) Hvad er Duf(x, y) for u =  1 0  og u =  0 1 . Hvordan passer dette med fortolkningen af partielle afledede og retningsafledede. 
+
+**
 
 g) Betragt punkterne (0.5, 0.5) og (2, 2). I hvilken retning vokser/aftager f hurtigst i disse punkter? Hvad er den retningsafledede i disse punkter og retninger. Hvordan passer det med din beskrivelse af funktionen?
 
+**
 ___ 
 ## Delopgave 2:
-##### Betragt funktionen $f(x,y) = \sqrt{4}-2x^2-y^2$
+##### Betragt funktionen $f(x,y) = \sqrt{4-2x^2-y^2}$
 
 a) Hvad er f’s definitionsmængde? 
+For at kvadratroden er defineret skal indholdet være ikke negativt
+Omskriver $\sqrt{4 - 2x^2 - y^2} \ge 0$ til $2x^2 + y^2 \leq 4$
+
+$D = {{(x,y) \in \mathbb{R}^2 | 2x^2 + y^2 \leq 4 }}$
+
+**
+
 
 b) Bestem tangentplanen og en normalvektor i punktet (1, 1). 
+
+$z = f(1,1) + \partial{f} / \partial{x} (1,1) \cdot (x-1) + \partial{f} / \partial{y} (1,1) \cdot (y-1)$
+
+
 
 c) Findes der punkter (x, y) hvor f har globale maksima/minima? Begrund dit svar. 
 

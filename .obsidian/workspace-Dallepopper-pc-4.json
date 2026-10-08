@@ -27,22 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Uni/01 Calculus/01 Block 1/Workshop - Blok 1.md",
+                "file": "001 Uni/01 Calculus/05 Block 5/00 Block 5 Home.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Workshop - Blok 1"
+              "title": "00 Block 5 Home"
             }
           }
         ],
@@ -71,7 +61,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Filer"
             }
           },
           {
@@ -194,16 +184,6 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "6797aef169532c93",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ]
       }
@@ -214,44 +194,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "omnisearch:Omnisearch": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "switcher:Åbn Hurtigskifter": false,
+      "graph:Åbn grafvisning": false,
+      "canvas:Opret nyt lærred": false,
+      "daily-notes:Åbn dagens note": false,
+      "templates:Indsæt skabelon": false,
+      "command-palette:Åbn kommandopalet": false,
+      "bases:Opret ny base": false
     }
   },
-  "active": "52dfe06b226e7170",
+  "active": "d48b97a9e88e9007",
   "lastOpenFiles": [
-    "002 Knowledge/Mathematics/00 Mathematics Home.md",
-    "Domain.md",
-    "Function.md",
-    "Function of Multiple Variables.md",
-    "Level Curve.md",
-    "Graph of a Function.md",
-    "Calculus Tutorial/Type af kritiske punkter.md",
-    "003 Misc/Templates/Lecture template 2.md",
-    "003 Misc/Templates/Concept Template 0.md",
-    "003 Misc/Templates/Lecture template.md",
-    "001 Uni/01 Calculus/01 Block 1/Workshop - Blok 1.md",
-    "001 Uni/01 Calculus/01 Block 1/00 Block 1 Home.md",
-    "000 Dashboard/00 Calculus Home.md",
-    "Pasted image 20261008124058.png",
-    "001 Uni/01 Calculus/05 Block 5/Workshop - Blok 5.md",
-    "001 Uni/01 Calculus/05 Block 5/00 Block 5 Home.md",
-    "Calculus Tutorial",
     "Hej.md",
     "Pasted image 20260917100809.png",
     "Pasted image 20260917100729.png",
     "002 Knowledge/Mathematics",
     "002 Knowledge",
     "000 Dashboard",
+    "001 Uni/01 Calculus/05 Block 5/00 Block 5 Home.md",
     "001 Uni/01 Calculus/05 Block 5",
     "001 Uni/01 Calculus/04 Block 4",
     "001 Uni/01 Calculus/03 Block 3",
@@ -261,6 +221,7 @@
     "003 Misc/Trash/Programmering for matematikere/Kursusgang 2/Opgaveregning.md",
     "003 Misc/Trash/Programmering for matematikere/Kursusgang 2/Læringsmål.md",
     "003 Misc/Trash/Programmering for matematikere/Kursusgang 2",
+    "003 Misc/Trash/Programmering for matematikere",
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Kursusgang 1.md",
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/03 Opgaver/Kursusgang 4.md",
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Kursusgang 2.md",
@@ -268,6 +229,19 @@
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 2.md",
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 1.md",
     "003 Misc/Trash/Calculus/Master Concepts/Notat.md",
+    "Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Kursusgang 1.md",
+    "Calculus/Blok 1 Funktioner af flere variable/01 Forberedelse/Kursusgang 2.md",
+    "Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 3.md",
+    "Regneark.md",
+    "Calculus/Blok 1 Funktioner af flere variable/03 Opgaver/Kursusgang 4.md",
+    "Programmering for matematikere/Kursusgang 2/Læringsmål.md",
+    "Programmering for matematikere/Kursusgang 2/Opgaveregning.md",
+    "Calculus/Master Concepts/Notat.md",
+    "Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 2.md",
+    "Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 1.md",
+    "Lalalalala.md",
+    "Hejjjj.md",
+    "2026-09-08.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
