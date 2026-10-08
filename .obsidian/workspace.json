@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "001 Uni/01 Calculus/01 Block 1/Workshop - Blok 1.md",
+                "file": "Graph Theory.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Workshop - Blok 1"
+              "title": "Graph Theory"
             }
           }
         ],
@@ -229,6 +229,8 @@
   },
   "active": "52dfe06b226e7170",
   "lastOpenFiles": [
+    "001 Uni/01 Calculus/01 Block 1/Workshop - Blok 1.md",
+    "Graph Theory.md",
     "002 Knowledge/Mathematics/00 Mathematics Home.md",
     "Domain.md",
     "Function.md",
@@ -239,7 +241,6 @@
     "003 Misc/Templates/Lecture template 2.md",
     "003 Misc/Templates/Concept Template 0.md",
     "003 Misc/Templates/Lecture template.md",
-    "001 Uni/01 Calculus/01 Block 1/Workshop - Blok 1.md",
     "001 Uni/01 Calculus/01 Block 1/00 Block 1 Home.md",
     "000 Dashboard/00 Calculus Home.md",
     "Pasted image 20261008124058.png",
@@ -267,7 +268,6 @@
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 3.md",
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 2.md",
     "003 Misc/Trash/Calculus/Blok 1 Funktioner af flere variable/02 Forlæsning/Kursusgang 1.md",
-    "003 Misc/Trash/Calculus/Master Concepts/Notat.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled.canvas"
