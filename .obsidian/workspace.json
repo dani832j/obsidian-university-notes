@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graph Theory.md",
+                "file": "Bondy and Murty.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -42,7 +42,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Graph Theory"
+              "title": "Bondy and Murty"
             }
           }
         ],
@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "19162c46e2a72463",
@@ -230,7 +231,7 @@
   "active": "52dfe06b226e7170",
   "lastOpenFiles": [
     "001 Uni/01 Calculus/01 Block 1/Workshop - Blok 1.md",
-    "Graph Theory.md",
+    "Bondy and Murty.md",
     "002 Knowledge/Mathematics/00 Mathematics Home.md",
     "Domain.md",
     "Function.md",
